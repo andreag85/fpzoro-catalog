@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T20:55:45Z",
+  "products": [
+    {
+      "id": "zoro-327-standard",
+      "name": "Roronoa Zoro",
+      "number": "327",
+      "sku": "23191",
+      "line": "Pop!",
+      "variant": "Originale",
+      "heightCm": null,
+      "images": [
+        "asset:images/zoro-327-standard.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-roronoa-zoro/23191.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Versione originale. Confrontare posa, numero 327 e confezione con la foto ufficiale.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-923-wano",
+      "name": "Roronoa Zoro",
+      "number": "923",
+      "sku": "54462",
+      "line": "Pop!",
+      "variant": "Wano",
+      "heightCm": 12.1,
+      "images": [
+        "asset:images/zoro-923-wano.png"
+      ],
+      "sources": [
+        "https://funko.com/gb/pop-roronoa-zoro/54462.html",
+        "https://www.synchro-diffusion.com/media/akeneo_connector/asset_files/9/3/933235_FP_fr_FR_765c.pdf"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Abbigliamento di Wano e spade. La misura comprende la posa della figura.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": [],
+      "barcodes": [
+        "889698544627",
+        "0889698544627"
+      ]
+    },
+    {
+      "id": "zoro-1775-standard",
+      "name": "Roronoa Zoro",
+      "number": "1775",
+      "sku": "80369",
+      "line": "Pop!",
+      "variant": "Two Sword Style",
+      "heightCm": 10.7,
+      "images": [
+        "asset:images/zoro-1775-standard.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-roronoa-zoro-two-sword-style/80369.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Variante standard con due spade.",
+      "rarityFacts": [
+        "La stessa referenza commerciale può contenere casualmente la Chase: probabilità dichiarata 1 su 6."
+      ],
+      "checks": [
+        "Un annuncio 'Chance of Chase' non garantisce la variante Chase."
+      ]
+    },
+    {
+      "id": "zoro-1775-chase",
+      "name": "Roronoa Zoro",
+      "number": "1775",
+      "sku": "80369",
+      "line": "Pop!",
+      "variant": "Three Sword Style · Chase",
+      "heightCm": 10.7,
+      "images": [
+        "asset:images/zoro-1775-chase.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-roronoa-zoro-two-sword-style/80369.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Chase con terza spada nella bocca; numero e SKU condivisi con la standard.",
+      "rarityFacts": [
+        "Chase: probabilità dichiarata dal produttore 1 su 6. Non equivale a una tiratura numerata."
+      ],
+      "checks": [
+        "Verificare la terza spada nella bocca e la foto reale della figura, oltre all'adesivo Chase.",
+        "Barcode condiviso: lo scanner può proporre entrambe le varianti."
+      ]
+    },
+    {
+      "id": "zoro-2331-going-merry",
+      "name": "Roronoa Zoro",
+      "number": "2331",
+      "sku": "91688",
+      "line": "Pop!",
+      "variant": "Going Merry",
+      "heightCm": 11.7,
+      "images": [
+        "asset:images/zoro-2331-going-merry.png"
+      ],
+      "sources": [
+        "https://funko.com/gb/pop-roronoa-zoro-going-merry/91688.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Braccio sollevato e porzione di ponte della Going Merry; parte di una scena componibile.",
+      "rarityFacts": [
+        "Esclusiva rivenditori dichiarata da Funko; nessuna tiratura totale pubblicata."
+      ],
+      "checks": [
+        "La fonte dichiara nuova confezione di autenticazione Octane5. Seguire le indicazioni ufficiali per verificare il codice univoco."
+      ]
+    },
+    {
+      "id": "zoro-2514-dressrosa-glow",
+      "name": "Roronoa Zoro",
+      "number": "2514",
+      "sku": "94786",
+      "line": "Pop!",
+      "variant": "Dressrosa · Glow",
+      "heightCm": 9.9,
+      "images": [
+        "asset:images/zoro-2514-dressrosa-glow.png"
+      ],
+      "sources": [
+        "https://funko.com/gb/pop-roronoa-zoro-dressrosa-arc-glow/94786.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Variante luminescente di Dressrosa. Verificare foto reale e comportamento del materiale luminoso.",
+      "rarityFacts": [
+        "Esclusiva con effetto glow dichiarata dal produttore; tiratura non pubblicata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-bitty-sanji-2pack",
+      "name": "Roronoa Zoro",
+      "number": "",
+      "sku": "94221",
+      "line": "Bitty Pop!",
+      "variant": "Zoro e Sanji · 2-Pack",
+      "heightCm": 2.3,
+      "images": [
+        "asset:images/zoro-bitty-sanji-2pack.png"
+      ],
+      "sources": [
+        "https://funko.com/gb/bitty-pop-zoro-sanji-2-pack/94221.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Confezione con Zoro e Sanji. Obiettivo separato dalla figura Bitty singola.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-bitty-going-merry",
+      "name": "Roronoa Zoro",
+      "number": "",
+      "sku": "92964",
+      "line": "Bitty Pop! Display",
+      "variant": "Display Going Merry",
+      "heightCm": null,
+      "images": [
+        "asset:images/zoro-bitty-going-merry.png"
+      ],
+      "sources": [
+        "https://funko.com/gb/bitty-pop-display-going-merry/92964.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Display Going Merry con Zoro e Nami. Le figure sono circa 2,3 cm; il display è circa 26,7 cm e ospita 18 Bitty.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-1496-nothing-happened",
+      "name": "Roronoa Zoro",
+      "number": "1496",
+      "sku": "76879",
+      "line": "Pop!",
+      "variant": "Nothing Happened",
+      "heightCm": 10.7,
+      "images": [
+        "asset:images/zoro-1496-nothing-happened.png"
+      ],
+      "sources": [
+        "https://funko.com/mx/pop-roronoa-zoro-nothing-happened/76879.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Posa Nothing Happened con segni del combattimento.",
+      "rarityFacts": [
+        "Esclusiva rivenditore. L'indisponibilità in una regione non dimostra lo stato fuori produzione."
+      ],
+      "checks": [
+        "Funko documenta sia l'adesivo esclusiva rivenditore sia Special Edition: il solo adesivo diverso non indica un falso."
+      ]
+    },
+    {
+      "id": "zoro-1879-live-action",
+      "name": "Roronoa Zoro",
+      "number": "1879",
+      "sku": "75669",
+      "line": "Pop!",
+      "variant": "Live Action",
+      "heightCm": 10.7,
+      "images": [
+        "asset:images/zoro-1879-live-action.png"
+      ],
+      "sources": [
+        "https://funko.com/ca/pop-zoro-live-action/75669.html",
+        "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Versione della serie live action; distinta dalle rappresentazioni anime.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-keychain",
+      "name": "Roronoa Zoro",
+      "number": "",
+      "sku": "61371",
+      "line": "Pop! Keychain",
+      "variant": "Portachiavi",
+      "heightCm": null,
+      "images": [
+        "asset:images/zoro-keychain.jpg"
+      ],
+      "sources": [
+        "https://funko.com/gb/pop-keychain-roronoa-zoro/61371.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Portachiavi con Zoro. La lunghezza ufficiale di 10,2 cm comprende il portachiavi, non è l'altezza della sola figura.",
+      "rarityFacts": [
+        "Tiratura complessiva non pubblicata dalla fonte consultata."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-bitty-single",
+      "name": "Roronoa Zoro",
+      "number": "",
+      "sku": "86892b",
+      "line": "Bitty Pop!",
+      "variant": "Zoro singolo",
+      "heightCm": 2.3,
+      "images": [
+        "asset:images/zoro-bitty-single.png"
+      ],
+      "sources": [
+        "https://funko.com/gg/bitty-pop-one-piece-roronoa-zoro/86892b.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Figura Bitty singola con custodia. La fonte descrive anche il multipack che la contiene; possesso del multipack e della figura si gestiscono separatamente.",
+      "rarityFacts": [
+        "Le probabilità Chase del multipack si riferiscono agli altri personaggi casuali, non a questo Zoro."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-327-glow",
+      "name": "Roronoa Zoro",
+      "number": "327",
+      "sku": "71816",
+      "line": "Pop!",
+      "variant": "Glow · Kody Trading",
+      "heightCm": 10.5,
+      "images": [
+        "asset:images/zoro-327-glow.png"
+      ],
+      "sources": [
+        "https://funko.com/ca/pop-roronoa-zoro-glow/71816.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Versione luminescente del numero 327. Non confonderla con la standard dello stesso numero.",
+      "rarityFacts": [
+        "Esclusiva Kody Trading, effetto glow. La pagina ufficiale la include nel Vault (ritirata dalla produzione) alla data di verifica."
+      ],
+      "checks": [
+        "Verificare materiale luminoso e figura reale; il numero 327 da solo non identifica la variante."
+      ]
+    },
+    {
+      "id": "zoro-discovered-5eca7191f3b53c17",
+      "name": "One Piece Pack 5 pezzi (Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Sanji)",
+      "variant": "Da verificare",
+      "line": "Da verificare",
+      "verified": false,
+      "images": [
+        "https://www.emp-online.it/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwcb49c525/images/5/9/7/4/597400a.jpg?sw=350&sh=400&sm=fit&sfrm=png"
+      ],
+      "sources": [
+        "https://www.emp-online.it/p/one-piece-pack-5-pezzi-%28monkey-d.-luffy%2C-roronoa-zoro%2C-nami%2C-usopp%2C-sanji%29/597400.html"
+      ],
+      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
+    },
+    {
+      "id": "zoro-discovered-6fc112b2bbc1ef1c",
+      "name": "Pop! Premium Roronoa Zoro (Sleeping)",
+      "variant": "Da verificare",
+      "line": "Da verificare",
+      "verified": false,
+      "images": [
+        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw9a059eda/images/funko/upload/1/94048_OP_ZoroSleeping_POPPremium_GLAM-WEB.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-premium-roronoa-zoro-sleeping/94048.html"
+      ],
+      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
+    },
+    {
+      "id": "zoro-discovered-dfe97272976b2ce1",
+      "name": "Pop! Roronoa Zoro (Kid)",
+      "variant": "Da verificare",
+      "line": "Da verificare",
+      "verified": false,
+      "images": [
+        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw34c4a0b2/images/funko/upload/1/94717a_POPAnimation_OP_KidZoro_wKatana_Render_frontview_Glam-WEB.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-roronoa-zoro-kid/94717.html"
+      ],
+      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
+    },
+    {
+      "id": "zoro-discovered-26678c3b8cc59931",
+      "name": "Pop! Moment Roronoa Zoro vs. King",
+      "variant": "Da verificare",
+      "line": "Da verificare",
+      "verified": false,
+      "images": [
+        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dwe01c5fb0/images/funko/upload/84487_OP_RoronoaZoroVsUnmaskedKing_POP_MOMENT_GLAM-WEB.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-moment-roronoa-zoro-vs.-king/84487.html"
+      ],
+      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
+    },
+    {
+      "id": "zoro-discovered-5cb9ccf1fdcd3dd6",
+      "name": "Pop! Roronoa Zoro (Shelf Sitter)",
+      "variant": "Da verificare",
+      "line": "Da verificare",
+      "verified": false,
+      "images": [
+        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw8c24a881/images/funko/upload/1/94152PKG_OP_S16_POP3_POP_GLAM-WEB.png"
+      ],
+      "sources": [
+        "https://funko.com/pop-roronoa-zoro-shelf-sitter/94152.html"
+      ],
+      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
+    }
+  ],
+  "offers": [
+    {
+      "id": "14b36e3e301f2b0412b78fe42c5a7036d75effa5af83e29901adaff2371f9b59",
+      "productId": "zoro-bitty-sanji-2pack",
+      "seller": "EMP",
+      "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
+      "priceCents": 799,
+      "shippingCents": null,
+      "currency": "EUR",
+      "observedAt": "2026-10-01T20:55:45Z",
+      "inStock": true,
+      "condition": "new_boxed",
+      "guaranteedVariant": true
+    },
+    {
+      "id": "aa06a8db477600dac828c8c301fcebc52ddd087191924c8d97306cd4a5d0601f",
+      "productId": "zoro-1879-live-action",
+      "seller": "EMP",
+      "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
+      "priceCents": 1799,
+      "shippingCents": null,
+      "currency": "EUR",
+      "observedAt": "2026-10-01T20:55:45Z",
+      "inStock": true,
+      "condition": "new_boxed",
+      "guaranteedVariant": true
+    }
+  ],
+  "sourceWarnings": [
+    "Copertura in ampliamento; prezzi richiesti, non vendite concluse."
+  ]
+}
