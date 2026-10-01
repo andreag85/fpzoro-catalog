@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T20:55:45Z",
+  "generatedAt": "2026-10-01T21:06:00Z",
   "products": [
     {
       "id": "zoro-327-standard",
@@ -321,13 +321,11 @@
     },
     {
       "id": "zoro-discovered-6fc112b2bbc1ef1c",
-      "name": "Pop! Premium Roronoa Zoro (Sleeping)",
+      "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
       "line": "Da verificare",
       "verified": false,
-      "images": [
-        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw9a059eda/images/funko/upload/1/94048_OP_ZoroSleeping_POPPremium_GLAM-WEB.png"
-      ],
+      "images": [],
       "sources": [
         "https://funko.com/pop-premium-roronoa-zoro-sleeping/94048.html"
       ],
@@ -335,13 +333,11 @@
     },
     {
       "id": "zoro-discovered-dfe97272976b2ce1",
-      "name": "Pop! Roronoa Zoro (Kid)",
+      "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
       "line": "Da verificare",
       "verified": false,
-      "images": [
-        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw34c4a0b2/images/funko/upload/1/94717a_POPAnimation_OP_KidZoro_wKatana_Render_frontview_Glam-WEB.png"
-      ],
+      "images": [],
       "sources": [
         "https://funko.com/pop-roronoa-zoro-kid/94717.html"
       ],
@@ -349,13 +345,11 @@
     },
     {
       "id": "zoro-discovered-26678c3b8cc59931",
-      "name": "Pop! Moment Roronoa Zoro vs. King",
+      "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
       "line": "Da verificare",
       "verified": false,
-      "images": [
-        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dwe01c5fb0/images/funko/upload/84487_OP_RoronoaZoroVsUnmaskedKing_POP_MOMENT_GLAM-WEB.png"
-      ],
+      "images": [],
       "sources": [
         "https://funko.com/pop-moment-roronoa-zoro-vs.-king/84487.html"
       ],
@@ -363,13 +357,11 @@
     },
     {
       "id": "zoro-discovered-5cb9ccf1fdcd3dd6",
-      "name": "Pop! Roronoa Zoro (Shelf Sitter)",
+      "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
       "line": "Da verificare",
       "verified": false,
-      "images": [
-        "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw8c24a881/images/funko/upload/1/94152PKG_OP_S16_POP3_POP_GLAM-WEB.png"
-      ],
+      "images": [],
       "sources": [
         "https://funko.com/pop-roronoa-zoro-shelf-sitter/94152.html"
       ],
@@ -378,33 +370,37 @@
   ],
   "offers": [
     {
-      "id": "14b36e3e301f2b0412b78fe42c5a7036d75effa5af83e29901adaff2371f9b59",
+      "id": "c816aa06943dd775b3c83f76b81b8804f7ed0c773d7283c3157f3df6566373ac",
       "productId": "zoro-bitty-sanji-2pack",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
       "priceCents": 799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-01T20:55:45Z",
+      "observedAt": "2026-10-01T21:06:00Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     },
     {
-      "id": "aa06a8db477600dac828c8c301fcebc52ddd087191924c8d97306cd4a5d0601f",
+      "id": "5a6ea77a8b90ba04608b29082a063e6bc1cfa31fb77a05707d629643d1f48c1a",
       "productId": "zoro-1879-live-action",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
       "priceCents": 1799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-01T20:55:45Z",
+      "observedAt": "2026-10-01T21:06:00Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     }
   ],
   "sourceWarnings": [
-    "Copertura in ampliamento; prezzi richiesti, non vendite concluse."
+    "Copertura in ampliamento; prezzi richiesti, non vendite concluse.",
+    "Scheda non aggiornata: funko.com (HTTPError).",
+    "Scheda non aggiornata: funko.com (HTTPError).",
+    "Scheda non aggiornata: funko.com (HTTPError).",
+    "Scheda non aggiornata: funko.com (HTTPError)."
   ]
 }
