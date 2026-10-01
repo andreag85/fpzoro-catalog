@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T21:06:00Z",
+  "generatedAt": "2026-10-01T21:28:20Z",
   "products": [
     {
       "id": "zoro-327-standard",
@@ -282,6 +282,76 @@
       "checks": []
     },
     {
+      "id": "zoro-1288-enma-glow",
+      "name": "Roronoa Zoro",
+      "number": "1288",
+      "sku": "",
+      "line": "Pop!",
+      "variant": "Enma · Glow",
+      "heightCm": null,
+      "images": [
+        "asset:images/zoro-1288-enma-glow.jpg"
+      ],
+      "sources": [
+        "https://chalicecollectibles.com/products/funko-pop-chalice-collectibles-exclusive-one-piece-zoro-enma-gitd-1288"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Versione Enma luminescente, distinta da Wano #923 e dalle altre figure glow.",
+      "rarityFacts": [
+        "Esclusiva Chalice Collectibles dichiarata dal rivenditore. Tiratura complessiva non dichiarata."
+      ],
+      "checks": [
+        "Confrontare posa e numero 1288; il solo adesivo Glow non identifica questa figura."
+      ]
+    },
+    {
+      "id": "zoro-2178-egghead",
+      "name": "Roronoa Zoro",
+      "number": "2178",
+      "sku": "",
+      "line": "Pop!",
+      "variant": "Egghead Arc · Limited Edition",
+      "heightCm": 10.0,
+      "images": [
+        "asset:images/zoro-2178-egghead.jpg"
+      ],
+      "sources": [
+        "https://elbenwald.de/en/products/one-piece-zoro-egghead-arc-funko-pop-figure-limited-edition"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Versione Egghead Arc. Numero scatola 2178, abbigliamento e posa da confrontare con la foto.",
+      "rarityFacts": [
+        "Elbenwald dichiara una tiratura mondiale di 3.500 pezzi. Dichiarazione del rivenditore: confrontare anche la confezione reale."
+      ],
+      "checks": []
+    },
+    {
+      "id": "zoro-2124-wanted-poster",
+      "name": "Roronoa Zoro",
+      "number": "2124",
+      "sku": "88185",
+      "line": "Pop! Poster",
+      "variant": "Wanted Poster",
+      "heightCm": 9.9,
+      "images": [
+        "asset:images/zoro-2124-wanted-poster.png"
+      ],
+      "sources": [
+        "https://www.funko.com/de/pop-poster-roronoa-zoro-wanted/88185.html"
+      ],
+      "verified": true,
+      "verifiedAt": "2026-10-01T10:00:00Z",
+      "description": "Figura fissata davanti al manifesto Wanted. Custodia circa 17,3 × 21,8 × 7,2 cm; altezza della figura circa 9,9 cm.",
+      "rarityFacts": [
+        "Esclusiva web Funko, senza tiratura numerata dichiarata."
+      ],
+      "checks": [
+        "Confezione con sistema Octane5 dichiarato dalla fonte. Seguire la verifica ufficiale, senza considerare il barcode una prova di autenticità."
+      ]
+    },
+    {
       "id": "zoro-327-glow",
       "name": "Roronoa Zoro",
       "number": "327",
@@ -370,27 +440,27 @@
   ],
   "offers": [
     {
-      "id": "c816aa06943dd775b3c83f76b81b8804f7ed0c773d7283c3157f3df6566373ac",
+      "id": "2168e38cfe41e3b686e92b91a4a4b6c16d1f5810c6ce59ca0eb8a471e39de607",
       "productId": "zoro-bitty-sanji-2pack",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
       "priceCents": 799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-01T21:06:00Z",
+      "observedAt": "2026-10-01T21:28:20Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     },
     {
-      "id": "5a6ea77a8b90ba04608b29082a063e6bc1cfa31fb77a05707d629643d1f48c1a",
+      "id": "b10350537fc34ee2f7d4542e37a6bfb97a06266624d5ea55639d0d1352404c6b",
       "productId": "zoro-1879-live-action",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
       "priceCents": 1799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-01T21:06:00Z",
+      "observedAt": "2026-10-01T21:28:20Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
