@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:15:20Z",
+  "generatedAt": "2026-10-19T13:27:22Z",
   "products": [
     {
       "id": "zoro-327-standard",
@@ -376,20 +376,6 @@
       ]
     },
     {
-      "id": "zoro-discovered-5eca7191f3b53c17",
-      "name": "One Piece Pack 5 pezzi (Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Sanji)",
-      "variant": "Da verificare",
-      "line": "Da verificare",
-      "verified": false,
-      "images": [
-        "https://www.emp-online.it/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwcb49c525/images/5/9/7/4/597400a.jpg?sw=350&sh=400&sm=fit&sfrm=png"
-      ],
-      "sources": [
-        "https://www.emp-online.it/p/one-piece-pack-5-pezzi-%28monkey-d.-luffy%2C-roronoa-zoro%2C-nami%2C-usopp%2C-sanji%29/597400.html"
-      ],
-      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
-    },
-    {
       "id": "zoro-discovered-6fc112b2bbc1ef1c",
       "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
@@ -440,27 +426,27 @@
   ],
   "offers": [
     {
-      "id": "25065e9bc9478b552449930ea8bead2c5c16e0f56b684fc77055e94881b9a013",
+      "id": "4f37ca73d51a49b7846fae65015a50abbc4e0cbdcfbc0a1ef0a262c58ca4a9fd",
       "productId": "zoro-bitty-sanji-2pack",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
       "priceCents": 799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-18T11:15:20Z",
+      "observedAt": "2026-10-19T13:27:22Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     },
     {
-      "id": "a46705098efa376a48f87097d02abfcf85295678d8b4b59497c1b7eb1eba8ca8",
+      "id": "247fce4cada1b57de5b1762ee91bb09129a45ef2451288e7f67a85ae661cce6a",
       "productId": "zoro-1879-live-action",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
       "priceCents": 1599,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-10-18T11:15:20Z",
+      "observedAt": "2026-10-19T13:27:22Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
