@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:43:53Z",
+  "generatedAt": "2026-11-22T14:40:06Z",
   "products": [
     {
       "id": "zoro-327-standard",
@@ -426,27 +426,27 @@
   ],
   "offers": [
     {
-      "id": "be56748925c32fc99174d0f0b5ca9c6d9abac8f061eca5bc9152196f3f968620",
+      "id": "726b80d52832716e27269fa03d535200bb78d89534a6e18461c01cd4dce035ce",
       "productId": "zoro-bitty-sanji-2pack",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
       "priceCents": 799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-11-21T14:43:53Z",
+      "observedAt": "2026-11-22T14:40:06Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     },
     {
-      "id": "5c7e2c61e4adb400d006cb9a0865bd2505cb72c23eceeed001b504d0d579d703",
+      "id": "4301e2a4a82324f55c62608965a6b14e43d06861e6de7093b434624f2479c3d7",
       "productId": "zoro-1879-live-action",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
-      "priceCents": 1529,
+      "priceCents": 5399,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-11-21T14:43:53Z",
+      "observedAt": "2026-11-22T14:40:06Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
