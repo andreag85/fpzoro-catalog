@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:19:58Z",
+  "generatedAt": "2026-11-24T17:52:14Z",
   "products": [
     {
       "id": "zoro-327-standard",
@@ -400,18 +400,6 @@
       "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
     },
     {
-      "id": "zoro-discovered-26678c3b8cc59931",
-      "name": "Zoro · novità da verificare",
-      "variant": "Da verificare",
-      "line": "Da verificare",
-      "verified": false,
-      "images": [],
-      "sources": [
-        "https://funko.com/pop-moment-roronoa-zoro-vs.-king/84487.html"
-      ],
-      "description": "Rilevato automaticamente; verificare variante fisica e foto prima di confermare."
-    },
-    {
       "id": "zoro-discovered-5cb9ccf1fdcd3dd6",
       "name": "Zoro · novità da verificare",
       "variant": "Da verificare",
@@ -426,27 +414,27 @@
   ],
   "offers": [
     {
-      "id": "5debe5fec949f99bfd660876179084a718b0592eac4c93381d809618ce0793c8",
+      "id": "2894d968e857204d67d436c8b7adbd699c7188d6e20c18c57dab0b21017ee1f1",
       "productId": "zoro-bitty-sanji-2pack",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%26-sanji-%28bitty-pop%21%29-vinyl-figurines-%282-pack%29/595665.html",
       "priceCents": 799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-11-23T18:19:58Z",
+      "observedAt": "2026-11-24T17:52:14Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
     },
     {
-      "id": "fef55404df9bd672499fd9e058f1190c5b16524babc4ffd2efce00cabe0daa16",
+      "id": "f181407b5bce7b92aef26cea2a7812b4c2e882c6cfac41b26cff46cb197f3fff",
       "productId": "zoro-1879-live-action",
       "seller": "EMP",
       "url": "https://www.emp-online.it/p/zoro-%28pop%21%29-vinyl-figurine-1879/592001.html",
       "priceCents": 3799,
       "shippingCents": null,
       "currency": "EUR",
-      "observedAt": "2026-11-23T18:19:58Z",
+      "observedAt": "2026-11-24T17:52:14Z",
       "inStock": true,
       "condition": "new_boxed",
       "guaranteedVariant": true
@@ -454,7 +442,6 @@
   ],
   "sourceWarnings": [
     "Copertura in ampliamento; prezzi richiesti, non vendite concluse.",
-    "Scheda non aggiornata: funko.com (HTTPError).",
     "Scheda non aggiornata: funko.com (HTTPError).",
     "Scheda non aggiornata: funko.com (HTTPError).",
     "Scheda non aggiornata: funko.com (HTTPError)."
